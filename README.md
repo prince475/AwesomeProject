@@ -1,4 +1,6 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli). 
+
+We wiĺl be integrating rnmapbox and try out map route navigation and many more features mapbox has to offer.
 
 # Getting Started
 
